@@ -28,9 +28,8 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
  Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
-We need to be able to make music playlists of songs that we like.
-Describe at a high level a program that could solve that problem.
-We could have a pointer in an array for genre/playlist and in each pointer we could have some sort of BST that would have songs inserted into it with each song having data for name,artist,genre, etc.
+We need to be able to make music playlists of songs that we like.<br>
+We could have a pointer in an array for genre/playlist and in each pointer we could have some sort of BST that would have songs inserted into it with each song having data for name, artist, genre, etc.
 
 ## Questions to answer for Exercise #2
 
