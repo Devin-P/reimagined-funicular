@@ -43,7 +43,10 @@ Describe at a high level a program that could solve that problem.
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+## Song input
 <br>genre <br>artist <br>songname  <br>run time <br> album
+## Playlist input
+<br>genres artists and/or albums/songs for playlist <br>runtime for playlist or number of songs
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
