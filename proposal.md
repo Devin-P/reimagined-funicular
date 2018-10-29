@@ -1,4 +1,4 @@
-# X-Team 27 Project Proposal
+# X-Team NN Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -28,13 +28,13 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
  Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
-We need to be able to make music playlists of songs that we like.<br>
-We could have a pointer in an array for genre/playlist and in each pointer we could have some sort of BST that would have songs inserted into it with each song having data for name, artist, genre, etc.
+
+Briefly describe a problem that your team would like to solve.  
+Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)<br>
-Music Playlist
+1. Name: Give your project proposal a name (and edit the top line of this file)
 
 
 
@@ -43,7 +43,7 @@ Music Playlist
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
+<br>genre <br>artist <br>songname  <br>run time <br> album
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
