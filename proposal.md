@@ -33,7 +33,7 @@ We could have a pointer in an array for genre/playlist and in each pointer we co
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. Name: Give your project proposal a name (and edit the top line of this file)<br>
 Music Playlist
 
 
