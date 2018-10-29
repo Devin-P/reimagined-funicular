@@ -25,7 +25,7 @@ and missed deadlines.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
--Comment your work properly, before saving. Comment what you did to change in the change log.
+-Comment your work properly, before saving. Comment what you did to change in the change log.<br>
 -If there are issues with communication over group chat setup in-person meetings to help better understand a problem.
 
 
