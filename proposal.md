@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 27 Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -43,9 +43,9 @@ Describe at a high level a program that could solve that problem.
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-## Song input
+Song input
 <br>genre <br>artist <br>songname  <br>run time <br> album
-## Playlist input
+Playlist input
 <br>genres artists and/or albums/songs for playlist <br>runtime for playlist or number of songs
 
 
