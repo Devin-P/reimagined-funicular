@@ -39,8 +39,17 @@ Describe at a high level a program that could solve that problem.
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
-
+The output should display the song title, artist, and play time. <br>
+The playlist should also be displayed with the song genre as well as the runtime of the playlist and upcoming songs along with its artist, and runtime. <br> <br>
+Current song:<br>
+Song Title: song name <br>
+Artist: artist name <br>
+runtime <br> <br>
+Name of Genre <br>
+runtime of playlist <br>
+Upcoming song #1 info: Title - artist - time <br>
+Upcoming song #2 info: Title - artist - time <br>
+Upcoming song #3 info: Title - artist - time <br>
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 Song input
