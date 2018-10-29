@@ -43,8 +43,16 @@ Music Playlist
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
-
+song input
+<br> song name
+<br> genre
+<br> artist
+<br> length
+<br> album
+playlist input
+<br> genre
+<br> number of songs or run length
+<br> artists
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
