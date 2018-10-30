@@ -68,11 +68,24 @@ playlist input
 
  We will be using a text based interface e.g. menu for our Music Playlist program.
 
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+5. Types List: Break your solution idea down into units that you think can be implemented with a single class.Name each interface or class and briefly describe its function or purpose.
 
 
+### PlayListBST:
+ Contains several song nodes inserted into a BST
+ 
+### SongNode:
+Contains data on information such as song name, artist, genre, etc.
 
-Name each interface or class and briefly describe its function or purpose.
+### Main: 
+Contains an array where each part of the array can point to a PlayListBST.
+
+### Some Testing Ideas: 
+-When retreiving a song we want to test if we are looking for null, also if the song isn't in the playlist we should receive an error.<br>
+-Throw error if song length is negative or if inputted in unexpected format rather than 01:23<br>
+-If the number of playlists exceed the max allowed(or if we want to have it expand)<br>
+-Usual problem values such as null, 1, 0, "", " "<br>
+-Also test large numbers of songs being input
 
 
 ## Edit and Submit this file and any figures referenced by this document.
